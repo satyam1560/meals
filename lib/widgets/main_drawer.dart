@@ -13,7 +13,7 @@ class MainDrawer extends StatelessWidget {
       child: Column(
         children: [
           DrawerHeader(
-            padding: EdgeInsets.all(20),
+            padding:const  EdgeInsets.all(20),
             decoration: BoxDecoration(
               gradient: LinearGradient(
                 colors: [
@@ -33,7 +33,7 @@ class MainDrawer extends StatelessWidget {
                 size: 48,
                 color: Theme.of(context).colorScheme.primary,
               ),
-              SizedBox(width: 18),
+              const SizedBox(width: 18),
               Text(
                 'Cooking up!',
                 style: Theme.of(context).textTheme.titleLarge!.copyWith(
