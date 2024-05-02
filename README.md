@@ -1,24 +1,15 @@
-# meals
 
-A new Flutter project.
+# Meals Menu
 
-## Getting Started!
-![Screenshot 2023-05-29 125841](https://github.com/satyam1560/meals/assets/68018492/4cd107b2-2250-4084-8212-1f64d4000c02)
+This application offers a diverse range of beverages along with their respective cooking recipes. Leveraging Riverpod for state management and animation for enhanced visual appeal, users can seamlessly navigate through the content. The app allows users to add items to their favorites and provides a filtering feature for easy exploration.
+#### Screenshots
 
-
-
-![Screenshot 2023-05-29 125804](https://github.com/satyam1560/meals/assets/68018492/5f8ee716-89d1-428b-a535-ec7402ed557c)
+![App Screenshot](./assets/ss.png)
 
 
+## Features
 
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Filter
+- state management (Riverpod)
+- Animation 
+- Favorite/Unfavorrite
